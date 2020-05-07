@@ -1,0 +1,11 @@
+CSS:
+- Normalization (normalize.min.css)
+- Minified Bootstrap (bootstrap.min.css)
+- Main CSS (main.css)
+- Responsive CSS (responsive.css)
+
+Javascript:
+- Minified Jquery (jquery-3.3.1.min.js)
+- Modernizr (modernizr.min.js)
+- Minified Bootstrap (bootstrap.min.js)
+- Main JS (main.js)
